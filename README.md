@@ -19,6 +19,6 @@ TODO list:
  * [ ] locked tiles
  * [ ] superpowers (to be defined)
  * [x] scoring
- * [ ] levels?
+ * [ ] levels? - Proposal: 3 nivele, primul in care patratul urmator este afisat chiar pe imaginea care se plimba si patratele sa fie 4 culori f diferite, level 2 doar patratele sa fie culori f diferite, trebuie sa vezi patratul urmator unde il anunta, level 3 - sa fie doar nuante de albastru, de exemplu. Dupa mai poate sa fie un parametru legat de numarul de piese diferite 3,4,5..10 pe masura ce creste numarul, creste dificultatea.
  * [ ] audio?
  * [ ] add a space button so the game can be played on mobile
